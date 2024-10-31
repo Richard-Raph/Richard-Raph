@@ -1,5 +1,5 @@
 
-name: ARM DevCard
+name: DevCard
 on:
   workflow_dispatch:
   push:
