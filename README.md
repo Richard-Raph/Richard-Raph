@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <a href='https://app.daily.dev/rich_tech123'>
-  <img src='https://api.daily.dev/devcards/v2/F5cxAxeNlHAqBVCt67SDW.png?type=wide&r=vn4' width='652' alt='Richard Raphael&apos;s Dev Card' />
+  <img src='./devcard.png' width='652' alt='Richard Raphael&apos;s Dev Card' />
 </a>
